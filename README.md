@@ -16,3 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/adityagundecha/count.svg" />  
+</p>
+  <br>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
