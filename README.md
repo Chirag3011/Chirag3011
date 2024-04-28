@@ -1,21 +1,19 @@
-### Hello marvellous Dreamers out there, I am Chirag an DevOps Engineer and Techiee 👋
+### Hello,.. marvellous Dreamers out there :)
+### &emsp; I am Chirag a DevOps Engineer and Techiee 👋
+### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-- Happy Versioning !!
+
+✨ _**ABOUT ME GUYS!**_ ✨ 
+
+- 🔭 I’m currently doing **Azure IAAS/PAAS(Infra and DevOps)** in short **DevOps and SRE**
+- 🌱 I’m currently learning **Cloud AI/ML(Azure Specific)**
+- 👯 I’m looking to collaborate on any intersting knowledge rich idea/project for personal growth and development in career.
+- 💬 Ask me about anything that I can help you with
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/chirag-sharma-2121b11a9">**let's connect**</a>
+- ⚡ Fun fact: I am from future ;) !! 
+
+
 ![NUX_Octodex](https://github.com/Chirag3011/Chirag3011/assets/63345260/1fb5b43e-84c3-4766-a969-22526a28ef64)
 
-<!--
-**Chirag3011/Chirag3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
