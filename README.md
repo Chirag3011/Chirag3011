@@ -1,7 +1,7 @@
 <div style="white-space: pre; font-family: monospace;">
   <p style="font-size: 1.5em;"><b>Hello,.. Marvellous Dreamers out there :)</b></p>
   <p style="font-size: 1.3em;">&emsp;<b>I am Chirag a DevOps Engineer and Techiee</b> 👋</p>
-  <p style="font-size: 1.1em;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>-- Happy Versioning !!</b></p>
+  <p style="font-size: 1.1em;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>-- Happy Versioning !!</b></p>
 </div>
 <br>
 
