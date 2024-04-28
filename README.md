@@ -7,7 +7,7 @@
 
 ✨ _**ABOUT ME GUYS!**_ ✨ 
 
-- 🔭 I’m currently doing in short **DevOps(Azure PAAS/Dev) and SRE(Azure IAAS)**
+- 🔭 I’m currently working as a **DevOps(Azure PAAS/Dev) and SRE(Azure IAAS)** engineer.
 - 🌱 I’m currently learning **Cloud AI/ML(Azure Specific)**
 - 👯 I’m looking to collaborate on any intersting knowledge rich idea/project for personal growth and development in career.
 - 💬 Ask me about anything that I can help you with
