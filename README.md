@@ -1,13 +1,13 @@
 <div style="white-space: pre; font-family: monospace;">
-  <p style="font-size: 1.5em;"><b>Hello,.. Marvellous Dreamers out there :)</b></p>
-  <p style="font-size: 1.3em;">&emsp;<b>I am Chirag a DevOps Engineer and Techiee</b> 👋</p>
-  <p style="font-size: 1.1em;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>-- Happy Versioning !!</b></p>
+  <p style="font-size: 1.5em;"><b>Hello,. Marvellous Dreamers out there :)</b></p>
+  <p style="font-size: 1.3em;"><b>I am Chirag a DevOps Engineer and Techiee</b> 👋</p>
+  <p style="font-size: 1.1em;"><b>-- Happy Versioning !!</b></p>
 </div>
 <br>
 
 ✨ _**ABOUT ME GUYS!**_ ✨ 
 
-- 🔭 I’m currently doing **Azure IAAS/PAAS(Infra and DevOps)** in short **DevOps and SRE**
+- 🔭 I’m currently doing in short **DevOps(Azure PAAS/Dev) and SRE(Azure IAAS)**
 - 🌱 I’m currently learning **Cloud AI/ML(Azure Specific)**
 - 👯 I’m looking to collaborate on any intersting knowledge rich idea/project for personal growth and development in career.
 - 💬 Ask me about anything that I can help you with
