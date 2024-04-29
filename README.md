@@ -13,19 +13,20 @@
 - 💬 Ask me about anything that I can help you with
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/chirag-sharma-2121b11a9">**let's connect**</a>
 - ⚡ Fun fact: I am from future ;) !!
-- [![Download my CV](https://img.shields.io/badge/Download%20CV-Click%20Here-blue?style=flat-square&logo=download&logoColor=white)](https://github.com/Chirag3011/Chirag3011/files/15148316/Chirag_Resume.pdf)
 
 
 
 
 
-### 💻 Stack I Work With
+
+### 💻 Stack I Work With: - [![Download my CV](https://img.shields.io/badge/Download%20CV-Click%20Here-blue?style=flat-square&logo=download&logoColor=white)](https://github.com/Chirag3011/Chirag3011/files/15148316/Chirag_Resume.pdf)
 
 <br>
 
 <p  align="center">
 
 <img src="https://img.shields.io/badge/Kubernets-0078D4.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Azure-IAAS%2FPAAS-%20?style=for-the-badge&logo=microsoftazure&color=blue" height="25"/>
   </p>
   
 <p  align="center">
@@ -33,41 +34,43 @@
 <img src="https://img.shields.io/badge/git-0C2135.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>  
   &nbsp;
 <img src="https://img.shields.io/badge/docker-0078D4.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/>
+  &nbsp;
+<img src="https://img.shields.io/badge/Jenkins-%20?style=for-the-badge&logo=jenkins&logoColor=black&color=white" height="25"/>
+  &nbsp;
   </p>
   
   <p  align="center">
 
   
-<img src="https://img.shields.io/badge/prometheus-DA4E2A.svg?&style=for-the-badge&logo=prometheus&logoColor=white" height="25"/>
-  &nbsp;
+
 <img src="https://img.shields.io/badge/Hashicorp%20Terraform-%20%20?style=for-the-badge&logo=Terraform&logoColor=white" height="25"/>
   &nbsp;
-<img src="https://img.shields.io/badge/grafana-E65728.svg?&style=for-the-badge&logo=grafana&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Linux-RHEL%2FUBUNTU-%20?style=for-the-badge&logo=linux&logoColor=white&color=red" height="25">
   &nbsp;
-<img src="https://img.shields.io/badge/Elasticsearch-E4B519.svg?&style=for-the-badge&logo=Elasticsearch&logoColor=black" height="25"/>  
- </p>
+<img src="https://img.shields.io/badge/Azure-DevOps-%20?style=for-the-badge&logo=Azure%20Devops&logoColor=white&color=blue" height="25">
+  &nbsp;
+
  
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/CloudFoundry-EEEEEE?style=for-the-badge&logo=CloudFoundry" height="25">
-&nbsp;
+
   <img src="https://img.shields.io/badge/Netlify-EEEEEE?style=for-the-badge&logo=Netlify&logoColor=blue" height="25">
-&nbsp;
-    <img src="https://img.shields.io/badge/openshift-EEEEEE.svg?&style=for-the-badge&logo=redhat&logoColor=red" height="25">
 &nbsp;
     <img src="https://img.shields.io/badge/azure-EEEEEE?&style=for-the-badge&logo=microsoft%20azure&logoColor=blue" height="25">
 &nbsp;
-  <img src="https://img.shields.io/badge/AWS-EEEEEE.svg?&style=for-the-badge&logo=amazon" height="25">
-&nbsp;
   <img src="https://img.shields.io/badge/Wordpress-EEEEEE?style=for-the-badge&logo=Wordpress&logoColor=blue" height="25">
-
+&nbsp;
 </p>
 <br>
 
 
 
-![NUX_Octodex](https://github.com/Chirag3011/Chirag3011/assets/63345260/1fb5b43e-84c3-4766-a969-22526a28ef64)
+
+  <p align="center">
+  <img src="https://github.com/Chirag3011/Chirag3011/assets/63345260/1fb5b43e-84c3-4766-a969-22526a28ef64" alt="NUX Octodex" style="width: 50%; height: 50%;" />
+</p>
+
 
 
 <div align=center>
