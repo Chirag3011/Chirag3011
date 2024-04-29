@@ -12,7 +12,9 @@
 - 👯 I’m looking to collaborate on any intersting knowledge rich idea/project for personal growth and development in career.
 - 💬 Ask me about anything that I can help you with
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/chirag-sharma-2121b11a9">**let's connect**</a>
-- ⚡ Fun fact: I am from future ;) !! 
+- ⚡ Fun fact: I am from future ;) !!
+- [![Download my CV](https://img.shields.io/badge/Download%20CV-Click%20Here-blue?style=flat-square&logo=download&logoColor=white)](https://github.com/Chirag3011/Chirag3011/files/15148316/Chirag_Resume.pdf)
+
 
 
 
@@ -62,9 +64,6 @@
 
 </p>
 <br>
-
-
-
 
 
 
