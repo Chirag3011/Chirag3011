@@ -82,5 +82,9 @@
   <img src="https://profile-counter.glitch.me/adityagundecha/count.svg" />  
 </p>
   <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirag3011&show_icons=true&locale=en&layout=compact" alt="chirag-sharma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirag3011&show_icons=true&locale=en" alt="chirag-sharma" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirag3011&" alt="chirag-sharma" /></p>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
