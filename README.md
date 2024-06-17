@@ -19,8 +19,9 @@
 
 
 
-### 💻 Stack I Work With: - [![Download my CV](https://img.shields.io/badge/Download%20CV-Click%20Here-blue?style=flat-square&logo=download&logoColor=white)](https://github.com/Chirag3011/Chirag3011/files/15148316/Chirag_Resume.pdf)
+[![Download my CV](https://img.shields.io/badge/Download%20CV-Click%20Here-blue?style=flat-square&logo=download&logoColor=white)](https://github.com/Chirag3011/Chirag3011/files/15148316/Chirag_Resume.pdf)
 
+### 💻 Stack I Work With : - 
 <br>
 
 <p  align="center">
